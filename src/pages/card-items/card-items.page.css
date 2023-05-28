@@ -1,0 +1,28 @@
+.btn {
+    height: 45px;
+    width: 100px;
+    border-radius: 7px;
+    background-color: #1976D2;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.productContainer{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.cartBtn {
+    height: 45px;
+    width: 90%;
+    border-radius: 7px;
+    background-color: yellow;
+    color: black;   
+    margin: 10px;
+}
